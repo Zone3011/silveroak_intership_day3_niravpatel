@@ -1,0 +1,31 @@
+div{
+    height: 250px;
+    width: 175px;
+    background-color: rgba(0, 139, 42,0.5);
+    border: 10px ridge powderblue;
+    border-radius: 20px;
+    margin: 150px;
+    box-shadow: 20px 20px 20px 10px grey;
+    
+   }
+   div:hover{
+    height: 250px;
+    width: 175px;
+    background-color: rgb(212, 159, 25,0.5);
+    border: 10px ridge silver;
+    border-radius: 20px;
+    
+   
+   }
+   p{
+       margin: auto;
+       margin-top: 150px;
+       width: 150px;
+       font-size:20px;
+       text-shadow: 10px 10px 5px  rgba(172, 53, 172,0.5);
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+       text-transform: capitalize;
+    color: rgb(4, 20, 51);
+    border: 0px;
+    border-radius: 25px;
+   }
